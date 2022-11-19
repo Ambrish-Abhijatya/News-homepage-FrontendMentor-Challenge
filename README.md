@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Ambrish-Abhijatya/News-homepage-FrontendMentor-Challenge)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://ambrish-news-homepage.netlify.app/)
 
 
 ## Built with
