@@ -51,7 +51,7 @@ Users should be able to:
 <picture>
         <source media="(min-width: 768px)" srcset="./assets/images/image-web-3-desktop.jpg">
         <img src="./assets/images/image-web-3-mobile.jpg" alt="">
-      </picture>
+</picture>
 ```
 ```css
 /* Learn about the :not() selector  */
